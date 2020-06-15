@@ -6,5 +6,6 @@ public class testgit {
         System.out.println("测试git1");
         System.out.println("来自github的添加");
         System.out.println("来自gitee的添加");
+        System.out.println("来自githud的二次添加");
     }
 }
